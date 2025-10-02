@@ -1,0 +1,16 @@
+ Hugging Face Pipelines Demo
+
+This notebook demonstrates how to use the **Hugging Face `transformers` library** for a variety of natural language processing and computer vision tasks. Each section introduces a pipeline, loads a pre-trained model, and shows example usage.
+
+## Covered Tasks
+1. **Sentiment Analysis** – Classify text sentiment (positive/negative).  
+2. **Text Summarization** – Generate concise summaries of long text.  
+3. **Question Answering** – Answer questions from a given context.  
+4. **Named Entity Recognition (NER)** – Extract entities like names, dates, and organizations.  
+5. **Text Generation** – Generate coherent text given a prompt.  
+6. **Image Classification** – Classify objects in an image.  
+7. **Object Detection** – Detect and localize objects in an image.  
+8. **Image Segmentation** – Segment different objects in an image.  
+9. **Translation** – Translate text between languages.  
+10. **Zero-Shot Classification** – Classify text without task-specific training.  
+11. **Image Captioning** – Generate descriptive captions for images.
